@@ -7,3 +7,4 @@ git commit -m文件提交到仓库
 git add文件添加到索引
 git暂存区的概念
 git is charge of revise, but not files
+git has a mutable index called stage
