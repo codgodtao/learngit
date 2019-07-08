@@ -1,1 +1,3 @@
 git是真的难学！
+git commit
+git init
