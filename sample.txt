@@ -9,3 +9,4 @@ gitÔİ´æÇøµÄ¸ÅÄî
 git is charge of revise, but not files
 git has a mutable index called stage
 creat a new branch by git branch -b dev
+two things were put on two branches,the confict is interesting
