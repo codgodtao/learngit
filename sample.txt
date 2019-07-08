@@ -1,3 +1,7 @@
 git是真的难学！
-git commit
+mkdir目录名
+cd
 git init
+创建版本库
+git commit -m文件提交到仓库
+git add文件添加到索引
